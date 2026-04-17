@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+"terminal.integrated.env.windows": {
+  "LANG": "pt_BR.UTF-8"
+},
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
+}
